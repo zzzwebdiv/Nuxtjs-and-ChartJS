@@ -1,0 +1,23 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Applications/XAMPP/xamppfiles/htdocs/frontend/nuxtjs-and-chartjs/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_7043956e"
+  },
+  {
+    "name": "chart",
+    "path": "/chart",
+    "component": "/Applications/XAMPP/xamppfiles/htdocs/frontend/nuxtjs-and-chartjs/pages/chart.vue",
+    "chunkName": "pages/chart",
+    "_name": "_1e5db93f"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Applications/XAMPP/xamppfiles/htdocs/frontend/nuxtjs-and-chartjs/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_e0091f9a"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "TopNav": {
+    "description": "Auto imported from components/TopNav.vue"
+  },
+  "ChartsArea": {
+    "description": "Auto imported from components/charts/Area.vue"
+  },
+  "ChartsBarChart": {
+    "description": "Auto imported from components/charts/BarChart.vue"
+  },
+  "ChartsBubble": {
+    "description": "Auto imported from components/charts/Bubble.vue"
+  },
+  "ChartsDoughnutChart": {
+    "description": "Auto imported from components/charts/DoughnutChart.vue"
+  },
+  "ChartsLineChart": {
+    "description": "Auto imported from components/charts/LineChart.vue"
+  },
+  "ChartsMixed": {
+    "description": "Auto imported from components/charts/Mixed.vue"
+  },
+  "ChartsPie": {
+    "description": "Auto imported from components/charts/Pie.vue"
+  },
+  "ChartsPolarArea": {
+    "description": "Auto imported from components/charts/PolarArea.vue"
+  },
+  "ChartsRadar": {
+    "description": "Auto imported from components/charts/Radar.vue"
+  },
+  "ChartsScatter": {
+    "description": "Auto imported from components/charts/Scatter.vue"
+  }
+}
