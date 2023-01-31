@@ -1,5 +1,5 @@
 import Vue from "vue";
-import { Bar, Line, Doughnut } from 'vue-chartjs'
+import { Bar, Line, Doughnut, PolarArea, Radar } from 'vue-chartjs'
 import {
   Chart as ChartJS,
   Title,
@@ -11,6 +11,8 @@ import {
   LineElement,
   PointElement,
   ArcElement,
+  RadialLinearScale,
+  Filler,
 } from "chart.js";
 
 ChartJS.register(
@@ -23,6 +25,8 @@ ChartJS.register(
   LinearScale,
   LineElement,
   ArcElement,
+  RadialLinearScale,
+  Filler,
 );
 
 Vue.component("bar-chart", {
@@ -36,4 +40,12 @@ Vue.component("line-chart", {
 Vue.component("doughnut-chart", {
   extends: Doughnut,
 });
+
+Vue.component("area-chart",{
+  extends: Line,
+})
+
+Vue.component("radar-chart",{
+  extends: Radar,
+})
 

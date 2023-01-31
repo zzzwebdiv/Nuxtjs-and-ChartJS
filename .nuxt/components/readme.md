@@ -8,7 +8,7 @@ You can directly use them in pages and other components without the need to impo
 
 - `<Footer>` | `<footer>` (components/Footer.vue)
 - `<TopNav>` | `<top-nav>` (components/TopNav.vue)
-- `<ChartsArea>` | `<charts-area>` (components/charts/Area.vue)
+- `<ChartsAreaChart>` | `<charts-area-chart>` (components/charts/AreaChart.vue)
 - `<ChartsBarChart>` | `<charts-bar-chart>` (components/charts/BarChart.vue)
 - `<ChartsBubble>` | `<charts-bubble>` (components/charts/Bubble.vue)
 - `<ChartsDoughnutChart>` | `<charts-doughnut-chart>` (components/charts/DoughnutChart.vue)
@@ -16,5 +16,5 @@ You can directly use them in pages and other components without the need to impo
 - `<ChartsMixed>` | `<charts-mixed>` (components/charts/Mixed.vue)
 - `<ChartsPie>` | `<charts-pie>` (components/charts/Pie.vue)
 - `<ChartsPolarArea>` | `<charts-polar-area>` (components/charts/PolarArea.vue)
-- `<ChartsRadar>` | `<charts-radar>` (components/charts/Radar.vue)
+- `<ChartsRadarChart>` | `<charts-radar-chart>` (components/charts/RadarChart.vue)
 - `<ChartsScatter>` | `<charts-scatter>` (components/charts/Scatter.vue)

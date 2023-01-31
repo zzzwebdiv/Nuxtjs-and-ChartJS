@@ -5,8 +5,8 @@
   "TopNav": {
     "description": "Auto imported from components/TopNav.vue"
   },
-  "ChartsArea": {
-    "description": "Auto imported from components/charts/Area.vue"
+  "ChartsAreaChart": {
+    "description": "Auto imported from components/charts/AreaChart.vue"
   },
   "ChartsBarChart": {
     "description": "Auto imported from components/charts/BarChart.vue"
@@ -29,8 +29,8 @@
   "ChartsPolarArea": {
     "description": "Auto imported from components/charts/PolarArea.vue"
   },
-  "ChartsRadar": {
-    "description": "Auto imported from components/charts/Radar.vue"
+  "ChartsRadarChart": {
+    "description": "Auto imported from components/charts/RadarChart.vue"
   },
   "ChartsScatter": {
     "description": "Auto imported from components/charts/Scatter.vue"

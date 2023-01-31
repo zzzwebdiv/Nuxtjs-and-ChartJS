@@ -4,7 +4,7 @@
       Bar Chart
     </label>
     <client-only>
-      <bar-chart v-bind:chartData='chartData' v-bind:chartOptions='chartOptions' chart-id='myCustomId' />
+      <bar-chart v-bind:chartData='chartData' v-bind:chartOptions='chartOptions' chart-id='myBarChart' />
     </client-only>
   </div>
 </template>
@@ -16,7 +16,7 @@ export default {
     chartData: {
       labels: ['January', 'February', 'March'],
       datasets: [{
-        label: 'My Second Dataset',
+        label: 'Bugs',
         data: [40, 20, 12],
         backgroundColor: [
           'rgba(255, 99, 132, 0.2)',],

@@ -16,7 +16,7 @@ export default {
     chartData: {
       labels: ['January', 'February', 'March'],
       datasets: [{
-        label: 'My Second Dataset',
+        label: 'Loading Speed',
         data: [40, 20, 12],
         borderColor: [
           'rgb(54, 162, 235)',],

@@ -1,6 +1,6 @@
 export { default as Footer } from '../../components/Footer.vue'
 export { default as TopNav } from '../../components/TopNav.vue'
-export { default as ChartsArea } from '../../components/charts/Area.vue'
+export { default as ChartsAreaChart } from '../../components/charts/AreaChart.vue'
 export { default as ChartsBarChart } from '../../components/charts/BarChart.vue'
 export { default as ChartsBubble } from '../../components/charts/Bubble.vue'
 export { default as ChartsDoughnutChart } from '../../components/charts/DoughnutChart.vue'
@@ -8,7 +8,7 @@ export { default as ChartsLineChart } from '../../components/charts/LineChart.vu
 export { default as ChartsMixed } from '../../components/charts/Mixed.vue'
 export { default as ChartsPie } from '../../components/charts/Pie.vue'
 export { default as ChartsPolarArea } from '../../components/charts/PolarArea.vue'
-export { default as ChartsRadar } from '../../components/charts/Radar.vue'
+export { default as ChartsRadarChart } from '../../components/charts/RadarChart.vue'
 export { default as ChartsScatter } from '../../components/charts/Scatter.vue'
 
 // nuxt/nuxt.js#8607
